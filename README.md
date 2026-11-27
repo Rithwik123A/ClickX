@@ -7,7 +7,7 @@ It provides two editions, allowing users to choose between a beginner-friendly e
 
 ---
 
-## ✨ Features
+##  Features
 
 - **TOKEN Mode:** Automatically performs a specified number of clicks.
 - **INFINITE Mode:** Continuously performs mouse clicks.
@@ -17,7 +17,7 @@ It provides two editions, allowing users to choose between a beginner-friendly e
 
 ---
 
-## 📦 Available Editions
+##  Available Editions
 
 ClickX currently offers two editions:
 
@@ -30,7 +30,7 @@ Choose the edition that best suits your needs.
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Before running ClickX, make sure you have:
 
@@ -40,7 +40,7 @@ Before running ClickX, make sure you have:
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### 1. Download ClickX
 
@@ -68,7 +68,7 @@ This installs the required Python dependencies.
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 Navigate to your ClickX project directory using your terminal.
 
@@ -94,7 +94,7 @@ Follow the instructions provided by the application.
 
 ---
 
-## 🖱️ Clicking Modes
+##  Clicking Modes
 
 ClickX provides two clicking modes:
 
@@ -108,7 +108,7 @@ Allows users to continuously perform clicks until the operation is stopped.
 
 ---
 
-## 🛡️ Safety
+##  Safety
 
 ClickX uses PyAutoGUI's failsafe mechanism.
 
@@ -118,7 +118,7 @@ Use the application responsibly and avoid leaving automated clicking running una
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 ClickX/
@@ -134,7 +134,7 @@ ClickX/
 
 ---
 
-## 📌 Version Information
+##  Version Information
 
 **Current Release:** v1.4.0
 
@@ -146,7 +146,7 @@ For information about changes between versions, refer to [CHANGELOG.md](CHANGELO
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 **PyAutoGUI not found?**
 
@@ -166,13 +166,13 @@ Check that you are running the correct Python file and have installed all requir
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 Developed by **Rithwik B.**
 
 ---
 
-## 📄 License
+##  License
 
 ClickX is distributed under the MIT License.
 
@@ -180,7 +180,7 @@ See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you find ClickX useful, consider giving the repository a ⭐ on GitHub!
 
